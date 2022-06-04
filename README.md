@@ -4,6 +4,6 @@
 
 
 <p float="left">
-  <img src="![dEstimate](https://user-images.githubusercontent.com/87126069/172000068-8bc2e1f0-7001-464d-b4c8-ca2cb51a6522.gif " width="200" /> 
-  <img src="![w0Estimate](https://user-images.githubusercontent.com/87126069/172000052-99d7f60f-f6e8-4562-a6f1-4fd2ef78f8e0.gif)" width="200" />
+  <img src="![dEstimate](https://user-images.githubusercontent.com/87126069/172000068-8bc2e1f0-7001-464d-b4c8-ca2cb51a6522.gif " width="100" /> 
+  <img src="![w0Estimate](https://user-images.githubusercontent.com/87126069/172000052-99d7f60f-f6e8-4562-a6f1-4fd2ef78f8e0.gif)" width="100" />
 </p>
