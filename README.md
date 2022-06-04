@@ -3,5 +3,4 @@
 ![TrueGifYOLOXD](https://user-images.githubusercontent.com/87126069/172000038-7976868f-d495-4074-a669-c21842edab67.gif)
 
 
-![dEstimate](https://user-images.githubusercontent.com/87126069/172000147-2b738b07-cebb-44bf-bed5-1731e63106ba.gif) | ![w0Estimate](https://user-images.githubusercontent.com/87126069/172000154-3137e7a2-4324-4176-9454-c3f2ecb99533.gif)
-
+<img src="![dEstimate](https://user-images.githubusercontent.com/87126069/172000147-2b738b07-cebb-44bf-bed5-1731e63106ba.gif)", width = "100", height="100"> | <img src="![w0Estimate](https://user-images.githubusercontent.com/87126069/172000154-3137e7a2-4324-4176-9454-c3f2ecb99533.gif)", width="100", height = "100">
